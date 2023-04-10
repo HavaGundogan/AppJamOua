@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1023919741078",
+    "project_id": "new-project-a7335",
+    "storage_bucket": "new-project-a7335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023919741078:android:57ca7b54c3a078fe638ab7",
+        "android_client_info": {
+          "package_name": "com.example.signup_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023919741078-lub8rs6buqk18d6hbsi31qm8fre5lg33.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJcX6sZUI7diVmCBzt-pStSs0VGcmS_t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023919741078-lub8rs6buqk18d6hbsi31qm8fre5lg33.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1023919741078-3tsak8emhpqg33it9ahfsrgclks9qsib.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.signupLogin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
