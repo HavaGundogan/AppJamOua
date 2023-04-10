@@ -1,14 +1,4 @@
-
-## To Do List Android Version
-
-![ic_launcher-playstore](https://user-images.githubusercontent.com/48391281/155350716-0efa9634-0d49-4d73-b783-36a0e61b4758.png)
-
-
-##### Create, update, delete, read tasks using Couchbase lite.
-
-## Build and run the app
-
-##### Run the app using the "play" or "debug" button.
+#Academi Galeri
 
 <br>
 
